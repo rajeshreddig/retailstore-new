@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\labs\\Retailstore\\retailstore\\retailstore.csproj": {}
+    "C:\\Users\\rajes\\Desktop\\New folder\\retailstore-new\\retailstore.csproj": {}
   },
   "projects": {
-    "D:\\labs\\Retailstore\\retailstore\\retailstore.csproj": {
+    "C:\\Users\\rajes\\Desktop\\New folder\\retailstore-new\\retailstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\labs\\Retailstore\\retailstore\\retailstore.csproj",
+        "projectUniqueName": "C:\\Users\\rajes\\Desktop\\New folder\\retailstore-new\\retailstore.csproj",
         "projectName": "retailstore",
-        "projectPath": "D:\\labs\\Retailstore\\retailstore\\retailstore.csproj",
+        "projectPath": "C:\\Users\\rajes\\Desktop\\New folder\\retailstore-new\\retailstore.csproj",
         "packagesPath": "C:\\Users\\rajes\\.nuget\\packages\\",
-        "outputPath": "D:\\labs\\Retailstore\\retailstore\\obj\\",
+        "outputPath": "C:\\Users\\rajes\\Desktop\\New folder\\retailstore-new\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajes\\AppData\\Roaming\\NuGet\\NuGet.Config"
